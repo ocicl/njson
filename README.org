@@ -4,6 +4,6 @@ Common Lisp JSON handling library (not a parser!), with the aim for convenience 
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/atlas-engineer/njson.git |
-| commit  | 4e1edae                                         |
+| commit  | 8b89ff0                                         |
 | systems | njson                                           |
 |---------+-------------------------------------------------|
